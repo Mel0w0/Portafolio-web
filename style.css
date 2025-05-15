@@ -294,6 +294,8 @@ a {
 .proyectos__imagen{
     height: auto;
     width: 50%;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .proyectos__texto{
@@ -305,10 +307,12 @@ a {
 
 .proyectos__nombre{
     margin: 0%;
+    padding-bottom: 13px;
 }
 
 .proyectos__descripcion{
     margin: 0%;
+    padding-bottom: 20px;
 }
 
 .proyectos__enlaces{
@@ -323,12 +327,14 @@ a {
     background-color: #F5F5F5;
     color: #2A7AE4;
     border: 1px solid #2A7AE4;
+    border-radius: 15px;
 }
 
 .proyectos__demo{
     padding: 17px;
     background-color: #2A7AE4;
     color: #F5F5F5;
+    border-radius: 15px;
 }
 
 /*------------------------------ Sección de Contacto ---------------------------------*/
